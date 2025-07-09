@@ -1,0 +1,23 @@
+// FOR JOURNAL: LITERATURE_TYPE TITLE AUTHOR IMPACT_FACTOR VOLUME_NO EDITOR_NAME SCOPE
+// FOR BOOK: LITERATURE_TYPE TITLE AUTHOR PUBLISHER SUBJECT PRICE
+// FOR THESIS: LITERATURE_TYPE TITLE AUTHOR SUPERVISOR UNIVERSITY
+{journal} {Nature} {B.Uhlenbruck,H.Jin,S.Reppert,M.Bassetto} {65} {629} {M.Skipper,R.Webb,F.Cesari,K.Ziemelis,K.B.Krause,C.Sullivan} {Multidisciplinary}
+{journal} {Physical Review Letters (PRL)} {J.Tiedau,F.Pellerin,M.Ablikim,A.Koottandavida} {10} {132} {R.Garisto,H.Chaté,A.Agarwal,S.Dalena,S.Mitra} {Physics}
+{journal} {Physical Review D (PRD)} {J.Chu,N.Bell,E.Hirst,A.Boldrin} {4} {109} {U.Heller,M.Cvetič,A.Fayyazuddin} {Particle Physics}
+{journal} {Journal of High Energy Physics (JHEP)} {R.Rodrigues,P.Agarwal,T.Grimm} {5} {2024} {I.Antoniadis,P.Aspinwall,C.Bachas,M.Berkooz} {High Energy Physics}
+{journal} {Nano Research} {J.Chen,Z.Liu,H.Xia,X.Li} {10} {17} {Y.Li,S.Fan} {Nanoscience,Nano-technology}
+{journal} {Nuclear Physics B} {S.Mironov,Ö.Ökcü,I.Kishimoto} {3} {1004} {T.Ohlsson,H.He,C.Córdova} {High Energy Physics,Particle Cosmology,Mathematical Physics}
+{journal} {Monthly Notices of the Royal Astronomical Society (MNRAS)} {S.Chon,S.Yalçınkaya,A.Aguirre-Santaella} {5} {530} {D.Flower,A.King,P.Armitage} {Astrophysics}
+{book} {A Critique of Reductionism and Non‐Reductionism} {J. Lackey} {Oxford University Press} {Philosophy} {59.99}
+{book} {Dynamics and Relativity} {J. Foreshaw,A. Smith} {Wiley} {Physics} {42.98}
+{book} {Statistics for business and economics} {P. Newbold} {Pearson} {Statistics} {124.49}
+{book} {The Society for Worldwide Interbank Financial Telecommunication (SWIFT)} {S. Scott} {Routledge Taylor and Francis Group} {Finance} {112.59}
+{book} {Blood science : principles and pathology} {A. Blann} {Wiley-Blackwell} {Medicine} {77.40}
+{book} {Phonetics : a coursebook} {R. Knight} {Cambridge University Press} {Linguistics} {35.50}
+{book} {Occupational hygiene} {K. Gardiner,J.M. Harrington} {Blackwell Pub} {Medicine} {22.90}
+{thesis} {Metastability and Quench Dynamics in a Long-Range Interacting Hubbard Model} {L. Hruby} {T. Esslinger} {ETH Zurich}
+{thesis} {A precision measurement of the cosmic ray positron fraction on the International Space Station} {M. Krafczyk} {S. Ting} {MIT}
+{thesis} {Beyond Standard Model Physics: At the Frontiers of Cosmology and Particle Physics.} {A. Lopez-Suarez} {K. Freese} {University of Michigan}
+{thesis} {Totality and physics} {J. Quirke} {A. Wilson} {University of Birmingham}
+{thesis} {Estimation of the Z -> vv background to new physics searches in ATLAS} {T. Sandoval} {A. Parker} {University of Cambridge}
+{thesis} {Generalised Models of Percolation and the Field Theoretic Approach to Statistical Dynamics} {P. Harper} {A. Mckane} {University of Manchester}
